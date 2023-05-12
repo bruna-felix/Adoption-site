@@ -1,0 +1,13 @@
+
+h1 { color: rgb(5, 5, 146); }
+img { border-radius: 60px;}
+h3 { color:rgb(133, 79, 30); }
+h2 { color:rgb(22, 21, 21);}
+p{
+  font-size: 2em;
+  font-weight: 700;
+  color: rgb(5, 5, 119);
+}
+button{
+    color:brown;
+}
